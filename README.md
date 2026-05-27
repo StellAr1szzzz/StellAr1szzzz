@@ -7,9 +7,8 @@
 
 # Meng Baosen
 
-Biostatistician working on vaccine efficacy trials, correlates of protection,
-and reproducible research pipelines in R. Recently exploring LLM agents for
-biomedical data workflows.
+Data governance for large-scale population cohorts and reproducible research
+pipelines in R. Recently exploring LLM agents for biomedical data workflows.
 
 ---
 
@@ -32,12 +31,6 @@ biomedical data workflows.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=r,python,latex,git,github,linux,vscode,bash,docker&theme=light&perline=10" alt="tech stack" />
-</p>
-
-## GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&hide=issues&card_width=420&theme=default" height="160" alt="GitHub stats" />
 </p>
 
 ## Contact
