@@ -7,8 +7,9 @@
 
 # Meng Baosen
 
-Data governance for large-scale population cohorts and reproducible research
-pipelines in R. Recently exploring LLM agents for biomedical data workflows.
+Working on data governance for large-scale population cohorts and reproducible
+research pipelines in R. Recently exploring LLM agents for biomedical data
+workflows.
 
 ---
 
